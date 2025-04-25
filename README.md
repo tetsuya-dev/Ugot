@@ -1,3 +1,5 @@
+![ugot-robots](https://github.com/user-attachments/assets/9f78a572-efc5-4d7e-9d14-8081f70880f0)
+
 # UGOT Robot Code Examples
 
 This repository contains a collection of simple programs created to practice and experiment with **UGOT** robots. Each folder contains an independent script designed to perform specific tasks or test different robot features (such as sensors, movement, camera, etc.).
